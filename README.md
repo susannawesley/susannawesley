@@ -1,16 +1,30 @@
-<h1 align="center" style="color:red;">Hello, welcome to my space 🚀</h1>
+# Hi, I'm Susanna 👋
 
-<!--
-**susannawesley/susannawesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in **Data Analytics, Business Intelligence, and data-driven problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful insights through **data cleaning, SQL analysis, visualization, and interactive dashboards**.
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL, JavaScript
+- **Data Analytics:** Pandas, NumPy, Data Cleaning, EDA
+- **Visualization & BI:** Power BI, Tableau, Data Visualization, Dashboard Development
+- **Databases:** PostgreSQL, MongoDB
+
+
+## 🏆 Achievement
+
+- Semi-Finalist — Flipkart GRID 7.0
+
+## 📜 Certifications
+
+- Certified Data Analyst — DataMites
+- NPTEL — Data Analytics
+- NPTEL — Data Science
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/susanna-john-a564a428a/)
+- Email: susannasf12@gmail.com
